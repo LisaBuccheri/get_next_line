@@ -3,8 +3,7 @@ The goal of this project was to code a function that will return the line read i
 Similar to the getline() in C++.
 
 
-Skills
-
-Unix
-Algorithms & AI
-Rigor
+## Skills
+  - Unix
+  - Algorithms & AI
+  - Rigor
